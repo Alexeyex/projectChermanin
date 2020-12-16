@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projectChermanin</string>
+    <string name="input_Money">Ввод денег</string>
+    <string name="bank_CardChkBx">С банковской карты</string>
+    <string name="mobile_PhoneChkBx">С мобильного телефона</string>
+    <string name="cash_AddressChkBx">Наличными по адресу</string>
+    <string name="input_Info">Информация об оплате</string>
+    <string name="btn_OK">ОК</string>
+</resources>
